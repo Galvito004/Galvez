@@ -1,0 +1,7 @@
+echo "# Galvez" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Galvito004/Galvez.git
+ git push - u origen principal
